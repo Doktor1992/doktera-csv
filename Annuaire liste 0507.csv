@@ -1,0 +1,56 @@
+id;name;type;specialty;category;address;city;phone;email;website;latitude;longitude;description;services;openHours
+001;Docteur RAKOTO Jean;doctor;Generaliste;;12 Rue de l Hopital;Antananarivo;+261 34 00 000 00;rakoto@example.com;;-18.8792;47.5079;Medecin generaliste disponible tous les jours;Consultation, Urgence;Lun-Ven 8h-18h
+002;Hopital Militaire (HOMI);hospital;;;Soavinandriana;Antananarivo;032 11 049 00, 032 11 051 79;;;;;;Hospitalisation, urgences;Lun-Ven 8h-18h
+003;Hopital Joseph Ravoahangy (HJRA);hospital;;;Ampefiloha;Antananarivo;22 279 79, 22 640 02;;;;;;Urgences generales;Lun-Ven 8h-18h
+004;Hopital Befelatanana (HJRB);hospital;;;Mahamasina;Antananarivo;22 672 21, 034 14 201 77;;;;;;;Lun-Ven 8h-18h
+005;Clinique des Soeurs;hospital;;;Ankadifotsy;Antananarivo;22 235 54, 22 695 20;;;;;;;Lun-Ven 8h-18h
+006;Medical Plus;hospital;;;Ankaditoho;Antananarivo;032 04 602 05, 033 11 613 05;;;;;;+ Consultation à domicile;Lun-Ven 8h-18h
+007;Assistance Plus;hospital;;;Ivato;Antananarivo;22 487 47, 032 07 801 13;;;;;;+ Consultation à domicile;Lun-Ven 8h-18h
+008;Espace Medical;hospital;;;Ambodivona;Antananarivo;22 625 66, 034 05 625 66;;;;;;+ Consultation à domicile;Lun-Ven 8h-18h
+009;Polyclinique Ilafy;hospital;;;Ilafy;Antananarivo;034 02 410 55, 032 07 410 14;;;;;;+ Ambulance;Lun-Ven 8h-18h
+010;Annexe polyclinique;hospital;;;Alhambra;Antananarivo;034 02 410 55 , 032 07 410 14;;;;;;;Lun-Ven 8h-18h
+011;Annexe polyclinique;hospital;;;Behoririka;Antananarivo;76 641 28 , 032 07 409 38;;;;;;;Lun-Ven 8h-18h
+012;Centre Arovy - IMM;hospital;;;;Antananarivo;032 23 217 17 , 034 17 452 69;;;;;;;Lun-Ven 8h-18h
+013;Medical Plus;ambulance;;;Ankaditoho;Antananarivo;033 11 613 05, 033 11 286 44;;;;;;;Lun-Ven 8h-18h
+014;Assistance Plus;ambulance;;;Ivato;Antananarivo;032 07 801 10;;;;;;;Lun-Ven 8h-18h
+015;Espace Medical;ambulance;;;Ambodivona;Antananarivo;22 625 66, 034 02 009 11;;;;;;;Lun-Ven 8h-18h
+016;Pompiers;ambulance;;;Tsaralalana;Antananarivo;118, 034 49 674 97;;;;;;;Lun-Ven 8h-18h
+017;Ambulance SARO;ambulance;;;Ilafy;Antananarivo;034 05 000 34, 034 05 000 19;;;;;;;Lun-Ven 8h-18h
+018;Dr ANDRIANARIVOSON Luc;doctor;Medecine Generale;;Ankaditoho;Antananarivo;033 11 613 05;;;;;;;Lun-Ven 8h-18h
+019;Dr RASOAHANINGO Benja;doctor;Medecine Generale;;Analamahitsy;Antananarivo;034 56 704 41, 034 56 704 42;;;;;;;Lun-Ven 8h-18h
+020;Dr RAMANDIMBISOA Tombo;doctor;Medecine Generale;;Analamahitsy;Antananarivo;032 07 817 74, 034 22 429 90;;;;;;;Lun-Ven 8h-18h
+021;Dr RANDRIAMAROSON Bertin;doctor;Medecine Generale;;Alarobia;Antananarivo;034 03 847 39, 032 99 286 69;;;;;;;Lun-Ven 8h-18h
+022;Dr KADERBAY Yumna;doctor;Medecine Generale;;Alarobia;Antananarivo;034 55 144 44;;;;;;;Lun-Ven 8h-18h
+023;Dr RAMAHERISON Francis;doctor;Gynecologue;;Clinique Noa;Antananarivo;038 22 608 80 , 033 33 608 80;;;;;;;Lun-Ven 8h-18h
+024;Dr RANDRIANASOLO Hary;doctor;Gynecologue;;Clinique Noa;Antananarivo;038 22 608 80 , 033 33 608 80;;;;;;;Lun-Ven 8h-18h
+025;Dr RAKOTOZAFY Fara;doctor;Gynecologue;;;Antananarivo;032 04 644 43;;;;;;;Lun-Ven 8h-18h
+026;Dr RAZAFINDRAZAKA Eric;doctor;Cardiologue;;Antsakaviro;Antananarivo;85 347 34 , 034 94 655 86;;;;;;;Lun-Ven 8h-18h
+027;Dr RANAIVOARISON Perlin;doctor;Cardiologue;;Espace Medical;Antananarivo;033 12 982 20;;;;;;;Lun-Ven 8h-18h
+028;Pr RAKOTOARIMANANA Solofo;doctor;Cardiologue;;Mandroseza;Antananarivo;034 35 661 47;;;;;;;Lun-Ven 8h-18h
+029;Pr RABEARIVONY Nirina;doctor;Cardiologue;;Mahamasina;Antananarivo;032 40 387 40 , 034 14 201 40;;;;;;;Lun-Ven 8h-18h
+030;Dr ANDRIAMBOAVONJY Honorette;doctor;Ophtalmologue;;Polyclinique Ilafy;Antananarivo;032 02 557 51 , 032 11 638 39;;;;;;;Lun-Ven 8h-18h
+031;Pr BERNARDIN Prisca;doctor;Ophtalmologue;;Opticity, Ambatoroka;Antananarivo;033 02 251 68 , 034 49 740 52;;;;;;;Lun-Ven 8h-18h
+032;Dr RAKOTOMANGA Patricia;doctor;Dermatologue;;Espace Medical;Antananarivo;032 07 705 86;;;;;;;Lun-Ven 8h-18h
+033;Pr RAZAFIMAHANDRY Henri Jean C.;doctor;Orthopediste;;HJRA;Antananarivo;033 11 251 85;;;;;;;Lun-Ven 8h-18h
+034;Dr RANDRIANOMENJANAHARY Jules;doctor;Orthopediste;;Centre Arovy;Antananarivo;033 11 061 99 , 032 23 217 17;;;;;;;Lun-Ven 8h-18h
+035;Dr MAMOD Amine;doctor;Dentiste;;Imm Assist Ivandry;Antananarivo;032 11 426 47 , 22 424 34;;;;;;;Lun-Ven 8h-18h
+036;Dr CHAPUIS Caroline;doctor;Dentiste;;Près de la City Ivandry;Antananarivo;032 07 154 19 , 032 11 208 88;;;;;;;Lun-Ven 8h-18h
+037;Dr RAFALIMANANA Niry Sylvie;doctor;Dentiste;;Ambohidahy;Antananarivo;032 54 385 67;;;;;;;Lun-Ven 8h-18h
+038;Dr RASOLONJATOVO Mamy Seth;doctor;ORL;;Clinique Reine Marie;Antananarivo;034 20 239 72;;;;;;;Lun-Ven 8h-18h
+039;Dr ANDRIANTSOAVINA Haja;doctor;Gastro-Enterologue;;Espace Medical;Antananarivo;033 11 039 23;;;;;;;Lun-Ven 8h-18h
+040;Dr LESPAGNE RADILOFE Tania;doctor;Pediatre;;Ampadrianomby;Antananarivo;22 404 43 , 034 11 820 29;;;;;;;Lun-Ven 8h-18h
+041;Dr RAKOTOVAO Haja;doctor;Rhumatologue;;Ampasamadinika;Antananarivo;032 04 273 07;;;;;;;Lun-Ven 8h-18h
+042;Institut Medical de Madagascar;radiology;;;Anosy;Antananarivo;22 217 17 , 034 17 452 69;;;;;;;Lun-Ven 8h-18h
+043;CRDT;radiology;;;Ambohimanarina;Antananarivo;033 11 307 60 , 034 11 307 60;;;;;;;Lun-Ven 8h-18h
+044;Polyclinique Ilafy;radiology;;;Annexe Behoririka;Antananarivo;76 641 28 , 032 07 409 38;;;;;;;Lun-Ven 8h-18h
+045;LABORATOIRES D’ANALYSES BIOMEDICALE;radiology;;;;Antananarivo;;;;;;;;Lun-Ven 8h-18h
+046;Institut Pasteur de Madagascar;radiology;;;Avaradoha ,Ankorondrano, Anosy;22 401 64 , 22 401 65 , 032 05 412 72 , 034 02 426 66 , 034 02 426 65;;;;;;;;Lun-Ven 8h-18h
+047;Centre Technique Biomedical;radiology;;;Route de Galaxy Andraharo;020 78 450 61 , 032 11 450 61;;;;;;;;Lun-Ven 8h-18h
+048;Mme RAKOTOMALALA Aimee;doctor;Kinesitherapeute;;Ambohibao;76 214 27;;;;;;;;Lun-Ven 8h-18h
+049;Mme RAKOTOMANANA Lovasoa Michèle;doctor;Kinesitherapeute;;Ambohibao;76 214 27 , 032 02 049 55;;;;;;;;Lun-Ven 8h-18h
+050;Dr RASOAHAINGO Benja;doctor;Osteopathe;;Analamahitsy;034 56 704 41;;;;;;;;Lun-Ven 8h-18h
+051;Mr VEZO Antoine;doctor;Osteopathe;;Tana Water Front;032 51 990 57;;;;;;;;Lun-Ven 8h-18h
+052;Mme ANDRIANILAINA Koloina;doctor;Psychologue;;Androhibe;033 07 468 81;;;;;;;;Lun-Ven 8h-18h
+053;Mme Louvet Dominique;doctor;Orthoptiste;;Clinique Aina (Ampahibe);032 07 137 50;;;;;;;;Lun-Ven 8h-18h
+054;Mme BOUKA Jamila;doctor;Audioprothesiste;;Centre commercial Dyve garden, route du Pape Anosivavaka;032 11 002 52;;;;;;;;Lun-Ven 8h-18h
+055;JANSSEN Melina;doctor;Orthophoniste;;Tana Water Front;034 49 579 06;;;;;;;;Lun-Ven 8h-18h
